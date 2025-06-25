@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "6c99c3ef-bf5f-42a3-8237-6abcb73eb1c6",
+		"name": "Онлайнер чекбокс",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45562486",
+		"_collection_link": "https://konstantin-6769394.postman.co/workspace/My-Workspace~3d12c5a2-039d-4d94-8725-f22874dfe7af/collection/45562486-6c99c3ef-bf5f-42a3-8237-6abcb73eb1c6?action=share&source=collection_link&creator=45562486"
+	},
+	"item": [
+		{
+			"name": "Включение чекбокса",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Чекбокс",
+			"request": {
+				"method": "PATCH",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
